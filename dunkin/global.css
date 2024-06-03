@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-poppins: Poppins;
+    --font-pacifico: Pacifico;
+    --font-titan-one: "Titan One";
+    --font-port-lligat-slab: "Port Lligat Slab";
+    --font-corinthia: Corinthia;
+    --font-potta-one: "Potta One";
+  
+    /* font sizes */
+    --font-size-4xs-9: 8.9px;
+    --font-size-xl: 20px;
+    --font-size-xs-1: 11.1px;
+    --font-size-7xl-7: 26.7px;
+    --font-size-base-6: 15.6px;
+  
+    /* Colors */
+    --white-color: #fff;
+    --first-color: #f8faf0;
+    --text-color-light: #847571;
+    --first-color1: #492d26;
+    --title-color: #2e2624;
+    --first-color-alt: #2b1712;
+    --point-color: #fc6719;
+    --text-color: #5b4c48;
+    --pink: #ed2083;
+    --body-color: #ffefeb;
+  
+    /* Gaps */
+    --gap-7xs-6: 5.6px;
+  
+    /* Paddings */
+    --padding-base-6: 15.6px;
+    --padding-16xl-6: 35.6px;
+    --padding-76xl-8: 95.8px;
+    --padding-4xs-9: 8.9px;
+  
+    /* Border radiuses */
+    --br-38xl-9: 57.9px;
+    --br-16xl-6: 35.6px;
+  }
+  
